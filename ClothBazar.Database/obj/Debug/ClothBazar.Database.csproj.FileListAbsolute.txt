@@ -3,12 +3,12 @@ C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBaz
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Database.pdb
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Entity.dll
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.dll
-C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\ClothBazar.Entity.pdb
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.xml
-C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csprojResolveAssemblyReference.cache
-C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.dll
-C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.pdb
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.Migrations.initialized.resources
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.csproj.GenerateResource.Cache
+C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.dll
+C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\obj\Debug\ClothBazar.Database.pdb
+C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Database\bin\Debug\EntityFramework.SqlServer.xml
