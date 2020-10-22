@@ -7,4 +7,3 @@ C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBaz
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Entity\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Entity\bin\Debug\EntityFramework.xml
 C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Entity\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\zahid.hussain\documents\visual studio 2015\Projects\ClothBazar\ClothBazar.Entity\obj\Debug\ClothBazar.Entity.csprojResolveAssemblyReference.cache
